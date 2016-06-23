@@ -64,9 +64,6 @@ PRODUCT_COPY_FILES += \
     vendor/jsr/I32_DNS/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/jsr/I32_DNS/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/jsr/I32_DNS/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
-    vendor/jsr/I32_DNS/proprietary/vendor/lib/libchromatix_gc2235_common.so:system/vendor/lib/libchromatix_gc2235_common.so \
-    vendor/jsr/I32_DNS/proprietary/vendor/lib/libchromatix_gc2235_default_video.so:system/vendor/lib/libchromatix_gc2235_default_video.so \
-    vendor/jsr/I32_DNS/proprietary/vendor/lib/libchromatix_gc2235_preview.so:system/vendor/lib/libchromatix_gc2235_preview.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
