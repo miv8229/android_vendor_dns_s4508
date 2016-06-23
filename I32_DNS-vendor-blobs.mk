@@ -67,7 +67,6 @@ PRODUCT_COPY_FILES += \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libjpegdhw.so:system/vendor/lib/libjpegdhw.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libjpegehw.so:system/vendor/lib/libjpegehw.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
-    vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_gc2235.so:system/vendor/lib/libmmcamera_gc2235.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_hdr_gb_lib.so:system/vendor/lib/libmmcamera_hdr_gb_lib.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/jsr/I32_DNS/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
